@@ -13,7 +13,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--cor-fundo)
+    background-color: var(--cor-fundo);
+    transition: background-color 1s;
 }
 #cor{
     padding: 8px 16px;

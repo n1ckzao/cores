@@ -8,3 +8,4 @@ function trocaCor () {
 }
 
 botaoTrocaCor.addEventListener('click', trocaCor)
+
